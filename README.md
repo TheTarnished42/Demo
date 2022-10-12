@@ -1,4 +1,4 @@
 # Demo
 
-Hello darkness my old friend \\
-New line?
+Hello darkness my old friend \n
+New line?s
